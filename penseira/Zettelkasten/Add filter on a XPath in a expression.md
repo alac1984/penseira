@@ -1,6 +1,6 @@
 12/01/2023 22:41
 
-Status: #walkthrough 
+Status: #information 
 
 Tags: [[Bizagi]] [[JScript]]
 

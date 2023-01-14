@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82e13d4fafd622e4",
+        "id": "0d8866cdbdf608b2",
         "type": "tabs",
         "children": [
           {
-            "id": "81bb3f44ea9a9dbb",
+            "id": "d0eb7a8e41e0aff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes to Insert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c492d3e00e183f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Add filter on a XPath in a expression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e8d6e4eb45668f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/How to make CHelper.Trace work on scripts at Activity Actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93f19b336e81232c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Using type -wait for watching logs in Windows PowerShell.md",
+                "file": "Zettelkasten/Make changes in an Entity using saveEntity.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes to Insert.md",
+                "file": "Zettelkasten/Make changes in an Entity using saveEntity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes to Insert.md",
+                "file": "Zettelkasten/Make changes in an Entity using saveEntity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes to Insert.md"
+                "file": "Zettelkasten/Make changes in an Entity using saveEntity.md"
               }
             }
           }
@@ -183,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81bb3f44ea9a9dbb",
+  "active": "d0eb7a8e41e0aff4",
   "lastOpenFiles": [
-    "Zettelkasten/How to make CHelper.Trace work on scripts at Activity Actions.md",
+    "Zettelkasten/Put a function below the main function without implicit declaration error.md",
     "Zettelkasten/Using type -wait for watching logs in Windows PowerShell.md",
-    "Notes to Insert.md",
     "Zettelkasten/Add filter on a XPath in a expression.md",
+    "Notes to Insert.md",
+    "Zettelkasten/How to make CHelper.Trace work on scripts at Activity Actions.md",
     "Zettelkasten/Finding Global and Summary Form in Bizagi Portal.md",
     "Zettelkasten/Create a Summary Form in Bizagi.md",
     "Zettelkasten/Create Global Form in Bizagi.md",
     "Zettelkasten/Collection Filter on Template Mapping.md",
-    "Zettelkasten/Template Mapping.md",
-    "Zettelkasten/Table validation for minimum number of records.md"
+    "Zettelkasten/Template Mapping.md"
   ]
 }

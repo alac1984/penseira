@@ -1,6 +1,6 @@
 04/01/2023 12:51
 
-Status: #walkthrough #canBeImproved 
+Status: #tutorial #canBeImproved 
 
 Tags: [[Bizagi]] [[SOAPUi]] [[Bizagi's SOA Layer]]
 
