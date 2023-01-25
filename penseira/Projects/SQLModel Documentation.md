@@ -1,0 +1,23 @@
+24/01/2023 22:37
+
+- [ ] #todo SQLModel ⏳ 2023-01-30
+- [ ] #todo Features⏳ 2023-01-30
+- [ ] #todo Into the Databases⏳ 2023-01-30
+- [ ] #todo Databases to code (ORM)⏳ 2023-01-31
+- [ ] #todo Intro, Installation, and First Steps ⏳ 2023-02-01
+- [ ] #todo Create a Table with SQL⏳ 2023-02-01
+- [ ] #todo Create a Table with SQLModel - Use the Engine⏳ 2023-02-01
+- [ ] #todo Create Rows - Use the Session - INSERT⏳ 2023-02-02
+- [ ] #todo Automatic IDs, None Defaults, and Refreshing Data⏳ 2023-02-02
+- [ ] #todo Read Data - SELECT⏳ 2023-02-03
+- [ ] #todo Filter Data - WHERE⏳ 2023-02-03
+- [ ] #todo Indexes - Optimize Queries⏳ 2023-02-03
+- [ ] #todo Read One Row⏳ 2023-02-04
+- [ ] #todo Read a Range of Data - LIMIT and OFFSET⏳ 2023-02-04
+- [ ] #todo Update Data - UPDATE⏳ 2023-02-04
+- [ ] #todo Delete Data - DELETE⏳ 2023-02-05
+- [ ] #todo Connect Tables - JOIN⏳ 2023-02-05
+- [ ] #todo Relationship Attributes⏳ 2023-02-05
+- [ ] #todo Many to Many⏳ 2023-02-05
+- [ ] #todo Code Structure and Multiple Files⏳ 2023-02-06
+- [ ] #todo FastAPI and Pydantic⏳ 2023-02-06
