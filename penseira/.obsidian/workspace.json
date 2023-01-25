@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dae730a917cc7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-01-24.md",
+                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-01-24.md",
+                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-01-24.md"
+                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md"
               }
             }
           },
@@ -156,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e9cb6821f04e7b4",
+  "active": "8dae730a917cc7ab",
   "lastOpenFiles": [
-    "Projects/Collegue Algebra with Python.md",
     "Daily/2023-01-24.md",
+    "Projects/Collegue Algebra with Python.md",
     "Projects/SQLModel Documentation.md",
     "Projects/Pydantic Documentation.md",
     "Untitled.canvas",
