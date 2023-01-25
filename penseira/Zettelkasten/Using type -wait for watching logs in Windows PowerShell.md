@@ -1,7 +1,5 @@
 12/01/2023 22:55
 
-Status: #information
-
 Tags: [[Windows]] [[Log]]
 
 If you need to watch a log in Windows, you can open PowerShell and type:

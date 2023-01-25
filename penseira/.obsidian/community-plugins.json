@@ -1,3 +1,7 @@
 [
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "obsidian-vimrc-support",
+  "obsidian-git"
 ]

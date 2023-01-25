@@ -1,7 +1,5 @@
 12/01/2023 17:42
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 In a Document Template control the Template Mapping is done like this:

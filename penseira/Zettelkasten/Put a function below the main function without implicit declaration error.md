@@ -1,7 +1,5 @@
 14/01/2023 17:27
 
-Status: #information
-
 Tags: [[C]]
 
 If you write a code like this:

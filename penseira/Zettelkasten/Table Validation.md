@@ -1,7 +1,5 @@
 12/01/2023 17:26
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 To create table validation rules:

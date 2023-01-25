@@ -1,7 +1,5 @@
 12/01/2023 22:48
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 1. When in Bizagi Modeler's carrousel, look in the top bar for Configuration option and click it

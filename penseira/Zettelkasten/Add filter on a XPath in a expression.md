@@ -1,7 +1,5 @@
 12/01/2023 22:41
 
-Status: #information 
-
 Tags: [[Bizagi]] [[JScript]]
 
 In a JScript expression in Bizagi, we can filter an XPath using like this:

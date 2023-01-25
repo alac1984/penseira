@@ -1,7 +1,5 @@
 12/01/2023 17:53
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 To create a Global Form, do the following:

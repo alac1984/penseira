@@ -1,7 +1,5 @@
 12/01/2023 17:34
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 To create a validation rule that expects at least one insertion on a table in Bizagi:

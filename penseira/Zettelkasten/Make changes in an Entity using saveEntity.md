@@ -1,7 +1,5 @@
 04/01/2023 12:51
 
-Status: #tutorial #canBeImproved 
-
 Tags: [[Bizagi]] [[SOAPUi]] [[Bizagi's SOA Layer]]
 
 This steps were written considering this operation happening in a on premise system in my own laptop:

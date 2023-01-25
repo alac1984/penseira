@@ -1,7 +1,5 @@
 04/01/2023 12:42
 
-Status: #walkthrough  #canBeImproved
-
 Tags: [[SOAPUi]]
 
 1. CTRL + N for New Project

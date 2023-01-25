@@ -1,7 +1,5 @@
 04/01/2023 11:46
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]] [[Bizagi's SOA Layer]] [[SOAPUi]]
 
 `saveEntity` is a POST request made for `http://[your_host]/[your_bizagi_project]/WebServices/EntityManagerSOA.asmx` endpoint.  A raw requisition is showed below:

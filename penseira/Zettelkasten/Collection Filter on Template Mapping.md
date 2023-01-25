@@ -1,7 +1,5 @@
 12/01/2023 17:54
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 To create a filter in a collection on a Document Template control:

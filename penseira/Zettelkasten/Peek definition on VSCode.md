@@ -1,7 +1,5 @@
 05/01/2023 00:24
 
-Status: #walkthrough 
-
 Tags: [[VSCode]]
 
 1. In any Python file, put the cursor above a class instance or definiton

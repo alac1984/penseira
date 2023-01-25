@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "c89ac9005829e5f5",
+    "id": "353419820cd59f34",
     "type": "split",
     "children": [
       {
-        "id": "6ea98150244b2bbb",
+        "id": "6814fc2453e1df95",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5bb8a3b8b17d3b",
+            "id": "98cdc18b8a2fd4ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Pydantic Documentation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -26,15 +22,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "559cca586c4fded2",
+    "id": "6e9d4c9e5a73931b",
     "type": "split",
     "children": [
       {
-        "id": "1c6ea45cb4f52d12",
+        "id": "cceb86db96da4867",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad9899a49f9640d",
+            "id": "4316e1244554aace",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +40,7 @@
             }
           },
           {
-            "id": "4758722708f5e265",
+            "id": "908968b85f1b4819",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +55,7 @@
             }
           },
           {
-            "id": "8b855b23cfe8770e",
+            "id": "0bf3ac3cebd723c1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,23 +66,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 300
   },
   "right": {
-    "id": "4c98cdf60d6cca73",
+    "id": "e60e6bf84d99848b",
     "type": "split",
     "children": [
       {
-        "id": "6853a48c35329d72",
+        "id": "73dc2d7e64cbd6a0",
         "type": "tabs",
         "children": [
           {
-            "id": "4e1d55057c4908db",
+            "id": "9ca11e14f76fa329",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Pydantic Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +93,18 @@
             }
           },
           {
-            "id": "f6cd6062dd5965d0",
+            "id": "01ddeda59395adea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Pydantic Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4505a341ffb14f8d",
+            "id": "614a4c2a1904e30f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,25 +115,14 @@
             }
           },
           {
-            "id": "f8835089798e8937",
+            "id": "6a7b748764242bf2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Pydantic Documentation.md"
-              }
-            }
-          },
-          {
-            "id": "74e1bac9bc69194e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,16 +139,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc5bb8a3b8b17d3b",
+  "active": "98cdc18b8a2fd4ee",
   "lastOpenFiles": [
-    "Projects/Pydantic Documentation.md",
-    "Daily/2023-01-24.md",
-    "Templates/New Project.md",
-    "Daily/Untitled.md",
-    "Templates/Daily Note.md",
-    "Templates/Core Zettel Idea.md",
-    "Templates/Map of Content.md",
-    "Zettelkasten/Windows 10.md",
-    "Zettelkasten/Windows.md"
+    "Break big strings in C.md"
   ]
 }

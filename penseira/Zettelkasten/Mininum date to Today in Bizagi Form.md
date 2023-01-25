@@ -1,7 +1,5 @@
 12/01/2023 11:34
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 1. Open form

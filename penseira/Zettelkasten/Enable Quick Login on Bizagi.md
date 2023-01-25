@@ -1,7 +1,5 @@
 06/01/2023 15:49
 
-Status: #walkthrough 
-
 Tags: [[Bizagi]]
 
 1. On Bizagi Studio, go to Expert tab

@@ -1,7 +1,5 @@
 05/01/2023 00:18
 
-Status: #walkthrough 
-
 Tags: [[VSCode]] [[Vim]]
 
 1. Hit CTRL + SHIFT + P and type `settings.json`
