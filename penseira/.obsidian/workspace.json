@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2401c8f5af46fd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Collegue Algebra with Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Collegue Algebra with Python.md",
+                "file": "Daily/2023-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Collegue Algebra with Python.md",
+                "file": "Daily/2023-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Collegue Algebra with Python.md"
+                "file": "Daily/2023-01-24.md"
               }
             }
           },
@@ -169,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2401c8f5af46fd19",
+  "active": "7e9cb6821f04e7b4",
   "lastOpenFiles": [
+    "Projects/Collegue Algebra with Python.md",
     "Daily/2023-01-24.md",
     "Projects/SQLModel Documentation.md",
     "Projects/Pydantic Documentation.md",
@@ -179,7 +167,6 @@
     "Daily/Untitled.md",
     "Templates/Daily Note.md",
     "Templates/Core Zettel Idea.md",
-    "Templates/Map of Content.md",
-    "Zettelkasten/Windows 10.md"
+    "Templates/Map of Content.md"
   ]
 }
