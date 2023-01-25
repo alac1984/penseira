@@ -11,7 +11,7 @@
 - [ ] #todo Automatic IDs, None Defaults, and Refreshing Data⏳ 2023-02-02
 - [ ] #todo Read Data - SELECT⏳ 2023-02-03
 - [ ] #todo Filter Data - WHERE⏳ 2023-02-03
-- [ ] #todo Indexes - Optimize Queries⏳ 2023-02-03
+- [ ] #todo Indexes - Optimize Queries 2023-02-03
 - [ ] #todo Read One Row⏳ 2023-02-04
 - [ ] #todo Read a Range of Data - LIMIT and OFFSET⏳ 2023-02-04
 - [ ] #todo Update Data - UPDATE⏳ 2023-02-04
@@ -21,3 +21,5 @@
 - [ ] #todo Many to Many⏳ 2023-02-05
 - [ ] #todo Code Structure and Multiple Files⏳ 2023-02-06
 - [ ] #todo FastAPI and Pydantic⏳ 2023-02-06
+- [ ] #todo Advanced User Guide⏳ 2023-02-06
+- [ ] #todo Decimal Numbers⏳ 2023-02-07
