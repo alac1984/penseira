@@ -1,6 +1,6 @@
 05/01/2023 00:18
 
-Tags: [[VSCode]] [[Vim]]
+Tags: [[VSCode]] [[Vim scriptnames function]]
 
 1. Hit CTRL + SHIFT + P and type `settings.json`
 2. Choose the Workspace file and open it
