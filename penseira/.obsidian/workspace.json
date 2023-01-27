@@ -1,40 +1,35 @@
 {
   "main": {
-    "id": "c89ac9005829e5f5",
+    "id": "d07eb3ac41e92f01",
     "type": "split",
     "children": [
       {
-        "id": "6382d24222cc0775",
+        "id": "8126904412145d49",
         "type": "tabs",
         "children": [
           {
-            "id": "085876b1f5e4a1de",
+            "id": "259e28d22bf573cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Adding Python and its libraries to PATH on Windows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "559cca586c4fded2",
+    "id": "7a62611335a2126d",
     "type": "split",
     "children": [
       {
-        "id": "1c6ea45cb4f52d12",
+        "id": "8b5c08f85b33426b",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad9899a49f9640d",
+            "id": "d557783f707f17f5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +39,7 @@
             }
           },
           {
-            "id": "4758722708f5e265",
+            "id": "63133ea699ba40ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +54,7 @@
             }
           },
           {
-            "id": "8b855b23cfe8770e",
+            "id": "6876eb3cb73b4158",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,23 +65,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 300
   },
   "right": {
-    "id": "4c98cdf60d6cca73",
+    "id": "58f529c901156ab0",
     "type": "split",
     "children": [
       {
-        "id": "6853a48c35329d72",
+        "id": "7f05b4c9f832a473",
         "type": "tabs",
         "children": [
           {
-            "id": "4e1d55057c4908db",
+            "id": "7ed33f39b26b0477",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b480bfa83480599c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Adding Python and its libraries to PATH on Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +100,18 @@
             }
           },
           {
-            "id": "f6cd6062dd5965d0",
+            "id": "5b16040d6c202410",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Adding Python and its libraries to PATH on Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4505a341ffb14f8d",
+            "id": "476046269c616399",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,25 +122,14 @@
             }
           },
           {
-            "id": "f8835089798e8937",
+            "id": "fdbf345ab736d11e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Adding Python and its libraries to PATH on Windows.md"
-              }
-            }
-          },
-          {
-            "id": "74e1bac9bc69194e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ad9899a49f9640d",
+  "active": "259e28d22bf573cd",
   "lastOpenFiles": [
-    "Daily/2023-01-26.md",
-    "Zettelkasten/Compile YouCompleteMe in Windows.md",
-    "Zettelkasten/Installing CMake on Windows.md",
-    "Zettelkasten/Installing Desktop development with C++.md",
-    "Zettelkasten/Installing Python on Windows.md",
-    "Zettelkasten/Adding Python and its libraries to PATH on Windows.md",
-    "Zettelkasten/Installing Poetry on Windows.md",
-    "Zettelkasten/Installing pip on Windows.md",
-    "Zettelkasten/Installing curl on Windows.md",
-    "Zettelkasten/Installing scoop on Windows.md"
+    "Zettelkasten/Windows 10.md",
+    "conflict-files-obsidian-git.md",
+    "Zettelkasten/Windows.md",
+    "Zettelkasten/Vim scriptnames function.md",
+    "Zettelkasten/Using type -wait for watching logs in Windows PowerShell.md",
+    "Zettelkasten/Unhandle Keys from VSCode Vim extension.md",
+    "Zettelkasten/Template Mapping.md",
+    "Zettelkasten/Table validation for minimum number of records.md",
+    "Zettelkasten/Table Validation.md",
+    "Zettelkasten/SOAPUi.md"
   ]
 }
