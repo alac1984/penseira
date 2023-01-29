@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "259e28d22bf573cd",
+            "id": "ff4d2858baa8c966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
+                "file": "Using GetterDict to change from_orm method to parse XML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
+                "file": "Using GetterDict to change from_orm method to parse XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
+                "file": "Using GetterDict to change from_orm method to parse XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md"
+                "file": "Using GetterDict to change from_orm method to parse XML.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "259e28d22bf573cd",
+  "active": "ff4d2858baa8c966",
   "lastOpenFiles": [
+    "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
     "Daily/2023-01-29.md",
     "Projects/Pydantic Documentation.md",
     "Templates/Daily Note.md",
@@ -164,7 +167,6 @@
     "Zettelkasten/Windows.md",
     "Zettelkasten/Vim scriptnames function.md",
     "Zettelkasten/Using type -wait for watching logs in Windows PowerShell.md",
-    "Zettelkasten/Unhandle Keys from VSCode Vim extension.md",
-    "Zettelkasten/Template Mapping.md"
+    "Zettelkasten/Unhandle Keys from VSCode Vim extension.md"
   ]
 }
