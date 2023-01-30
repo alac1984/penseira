@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d4a89250f2fad19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Convert a string written as a CVS in a dict in Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f9bd02a802ca1ae",
             "type": "leaf",
             "state": {
@@ -32,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -171,15 +158,15 @@
   },
   "active": "8f9bd02a802ca1ae",
   "lastOpenFiles": [
-    "Convert a string written as a CVS in a dict in Python.md",
+    "Create a custom validator in Pydantic using @validator decorator.md",
     "Using GetterDict to change from_orm method to parse XML.md",
+    "Convert a string written as a CVS in a dict in Python.md",
     "Poetry virtualenvs folders on Ubuntu.md",
     "Using slots in Python.md",
     "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
     "Daily/2023-01-29.md",
     "Projects/Pydantic Documentation.md",
     "Templates/Daily Note.md",
-    "conflict-files-obsidian-git.md",
-    "Zettelkasten/Windows 10.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
