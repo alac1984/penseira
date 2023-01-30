@@ -1,5 +1,7 @@
 29/01/2023 20:36
 
+Tags: [[Python]] [[Pydantic]]
+
 In the code below, we create a `UserGetter` class, child of Pydantic's `Getter Dict`. The `get` method from `Getter Dict` class runs everytime a Pydantic object processes an arbitrary class (like in `from_orm` method). Using our `UserGetter` class we can customize a `from_orm` method to, for example, parse XML data to create Pydantic class object.
 
 ```python
@@ -48,9 +50,7 @@ class User(BaseModel):
 user = User.from_orm(fromstring(xmlstring))
 ```
 
-
-
-
 ---
 # References
 
+https://docs.pydantic.dev/usage/models/

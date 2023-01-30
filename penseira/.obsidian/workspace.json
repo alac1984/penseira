@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8126904412145d49",
+        "id": "05013079794a9518",
         "type": "tabs",
         "children": [
           {
-            "id": "ff4d2858baa8c966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using GetterDict to change from_orm method to parse XML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d577c7cdf0cd7ea",
+            "id": "3d4a89250f2fad19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f9bd02a802ca1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using GetterDict to change from_orm method to parse XML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -168,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff4d2858baa8c966",
+  "active": "8f9bd02a802ca1ae",
   "lastOpenFiles": [
     "Convert a string written as a CVS in a dict in Python.md",
     "Using GetterDict to change from_orm method to parse XML.md",
