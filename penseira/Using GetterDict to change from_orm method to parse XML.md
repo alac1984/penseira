@@ -48,7 +48,6 @@ class User(BaseModel):
 user = User.from_orm(fromstring(xmlstring))
 ```
 
-Tags:
 
 
 
