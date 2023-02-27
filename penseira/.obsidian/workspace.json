@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using GetterDict to change from_orm method to parse XML.md",
+                "file": "Zettelkasten/Types of Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,20 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ed33f39b26b0477",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "b480bfa83480599c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using GetterDict to change from_orm method to parse XML.md",
+                "file": "Zettelkasten/Types of Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using GetterDict to change from_orm method to parse XML.md",
+                "file": "Zettelkasten/Types of Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using GetterDict to change from_orm method to parse XML.md"
+                "file": "Zettelkasten/Types of Machine Learning.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +149,16 @@
   },
   "active": "8f9bd02a802ca1ae",
   "lastOpenFiles": [
-    "Create a custom validator in Pydantic using @validator decorator.md",
-    "Using GetterDict to change from_orm method to parse XML.md",
-    "Convert a string written as a CVS in a dict in Python.md",
-    "Poetry virtualenvs folders on Ubuntu.md",
-    "Using slots in Python.md",
-    "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
+    "Zettelkasten/Using slots in Python.md",
+    "Zettelkasten/Types of Machine Learning.md",
+    "Zettelkasten/Create a custom validator in Pydantic using @validator decorator.md",
+    "Zettelkasten/MeDoingThingsByMyself.md",
+    "Daily/2023-01-26.md",
     "Daily/2023-01-29.md",
+    "Zettelkasten/Using GetterDict to change from_orm method to parse XML.md",
+    "Convert a string written as a CVS in a dict in Python.md",
+    "Zettelkasten/Poetry virtualenvs folders on Ubuntu.md",
+    "Zettelkasten/ORM Mode with Pydantic and SQLAlchemy.md",
     "Projects/Pydantic Documentation.md",
     "Templates/Daily Note.md",
     "conflict-files-obsidian-git.md"
